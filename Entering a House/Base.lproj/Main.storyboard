@@ -45,7 +45,7 @@
         <!--View Controller-->
         <scene sceneID="vE7-7u-OLK">
             <objects>
-                <viewController id="ot7-hJ-wAa" sceneMemberID="viewController">
+                <viewController id="ot7-hJ-wAa" customClass="ViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="AbC-zO-oUb"/>
                         <viewControllerLayoutGuide type="bottom" id="MjN-df-f4r"/>
@@ -93,7 +93,7 @@
         <!--View Controller-->
         <scene sceneID="Kzh-Jx-RNf">
             <objects>
-                <viewController id="zLK-zL-vPe" sceneMemberID="viewController">
+                <viewController id="zLK-zL-vPe" customClass="ViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="FWy-CW-Xtt"/>
                         <viewControllerLayoutGuide type="bottom" id="7vS-Lf-it9"/>
@@ -125,7 +125,7 @@
         <!--View Controller-->
         <scene sceneID="flN-Z0-7n6">
             <objects>
-                <viewController id="jBy-vi-DET" sceneMemberID="viewController">
+                <viewController id="jBy-vi-DET" customClass="ViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="SAE-xi-Ps8"/>
                         <viewControllerLayoutGuide type="bottom" id="8uk-QA-WCM"/>
@@ -157,7 +157,7 @@
         <!--View Controller-->
         <scene sceneID="Xc9-DT-W6A">
             <objects>
-                <viewController id="RG6-cr-bX3" sceneMemberID="viewController">
+                <viewController id="RG6-cr-bX3" customClass="ViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="xaH-Lm-7oH"/>
                         <viewControllerLayoutGuide type="bottom" id="KDi-78-UIZ"/>
@@ -181,7 +181,7 @@
         <!--View Controller-->
         <scene sceneID="7Ge-yq-Ixw">
             <objects>
-                <viewController id="N2i-Kb-Ibl" sceneMemberID="viewController">
+                <viewController id="N2i-Kb-Ibl" customClass="ViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="1Bt-of-Gtw"/>
                         <viewControllerLayoutGuide type="bottom" id="wNC-fq-cHF"/>
@@ -221,7 +221,7 @@
         <!--View Controller-->
         <scene sceneID="b67-NR-CPV">
             <objects>
-                <viewController id="8hU-al-J3I" sceneMemberID="viewController">
+                <viewController id="8hU-al-J3I" customClass="ViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="DwF-Bu-taz"/>
                         <viewControllerLayoutGuide type="bottom" id="4rk-mv-TwE"/>
@@ -245,7 +245,7 @@
         <!--View Controller-->
         <scene sceneID="cd0-dQ-K3m">
             <objects>
-                <viewController id="xjq-Cr-qrp" sceneMemberID="viewController">
+                <viewController id="xjq-Cr-qrp" customClass="ViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="qXM-k8-QiY"/>
                         <viewControllerLayoutGuide type="bottom" id="T7t-0i-kjC"/>
@@ -269,7 +269,7 @@
         <!--View Controller-->
         <scene sceneID="IAh-I8-sT1">
             <objects>
-                <viewController id="wAl-hL-iTF" sceneMemberID="viewController">
+                <viewController id="wAl-hL-iTF" customClass="ViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="fUi-el-kFT"/>
                         <viewControllerLayoutGuide type="bottom" id="QrQ-6X-ivB"/>
@@ -317,7 +317,7 @@
         <!--View Controller-->
         <scene sceneID="3Rq-Jv-uFU">
             <objects>
-                <viewController id="yyF-8r-2kC" sceneMemberID="viewController">
+                <viewController id="yyF-8r-2kC" customClass="ViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="yGC-zn-PA2"/>
                         <viewControllerLayoutGuide type="bottom" id="QMx-B3-pcE"/>
@@ -341,7 +341,7 @@
         <!--View Controller-->
         <scene sceneID="8Xz-Xh-khL">
             <objects>
-                <viewController id="MvU-lv-n8R" sceneMemberID="viewController">
+                <viewController id="MvU-lv-n8R" customClass="ViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="aIe-ke-d0f"/>
                         <viewControllerLayoutGuide type="bottom" id="AhM-OD-FzL"/>
@@ -373,7 +373,7 @@
         <!--View Controller-->
         <scene sceneID="LqC-Py-aVZ">
             <objects>
-                <viewController id="wpc-eF-w0r" sceneMemberID="viewController">
+                <viewController id="wpc-eF-w0r" customClass="ViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="5xp-N9-IHa"/>
                         <viewControllerLayoutGuide type="bottom" id="UHM-y2-nHz"/>
@@ -397,7 +397,7 @@
         <!--View Controller-->
         <scene sceneID="pKu-bf-kDT">
             <objects>
-                <viewController id="t1r-g3-WNH" sceneMemberID="viewController">
+                <viewController id="t1r-g3-WNH" customClass="ViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="IXX-tm-CIv"/>
                         <viewControllerLayoutGuide type="bottom" id="JF7-b4-KVf"/>
@@ -429,7 +429,7 @@
         <!--View Controller-->
         <scene sceneID="QRi-Sg-387">
             <objects>
-                <viewController id="NnD-aK-pGL" sceneMemberID="viewController">
+                <viewController id="NnD-aK-pGL" customClass="ViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="TgB-Sc-psB"/>
                         <viewControllerLayoutGuide type="bottom" id="JYq-7a-2e8"/>
@@ -453,7 +453,7 @@
         <!--View Controller-->
         <scene sceneID="mcu-yB-CcM">
             <objects>
-                <viewController id="Nze-5d-KmL" sceneMemberID="viewController">
+                <viewController id="Nze-5d-KmL" customClass="ViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="aCc-0N-zp1"/>
                         <viewControllerLayoutGuide type="bottom" id="Xgw-Ts-Bwo"/>
